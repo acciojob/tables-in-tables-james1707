@@ -1,2 +1,30 @@
 
-/* Your CSS Code here. */
+table{
+    border-style: solid;
+    border-width: 2px;
+    text-align:center;
+    height: 15vh;
+    width: 30vw;
+    margin:10px;
+}
+th{
+    border-style: solid;
+    border-width: 2px;
+    text-align:center;
+    col-span: 2;
+
+}
+td{
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+}
+caption{
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+}
+.html{
+    background-color: black;
+    color: white;
+}
